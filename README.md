@@ -27,7 +27,7 @@ Microsoft US Azure AI: Hack for Humanitarian Action
 <p>Azure webapps</p>
 
 ## Challenges we ran into
-<h1 style="page-break-before:always; ">Major Problems</h1>
+
 <p>Being stalked on roads and empty places</p>
 <p><b>TWILIGHT CLOUD CODERZ</b></p>
 <ul>
