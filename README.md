@@ -64,7 +64,7 @@ Microsoft US Azure AI: Hack for Humanitarian Action
 
 <p>Links</p>
 <p>https://twilighthealthbot.azurewebsites.net/</p>
-<p>https://twilightmaps.azurewebsites.net/</P>
+
 MIT License
 
 Copyright (c) 2022 TWILIGHTCLOUDCODERZ
